@@ -6,5 +6,22 @@ List of textbooks
 * H. E. Scarf,
   [*The Computation of Economic Equilibria*](https://cowles.yale.edu/cfm-24), Yale University Press, 1973
 * K. C. Border,
-  *Fixed Point Theorems with Applications to Economics and Game Theory*, Cambridge University Press, 1989
+  *Fixed Point Theorems with Applications to Economics and Game Theory*, 1989
   [[Amazon](https://www.amazon.co.jp/dp/0521388082)]
+* D. Gale,
+  *The Theory of Linear Economic Models*, 1960
+  [[Amazon]](https://www.amazon.co.jp/dp/0226278840)
+* O. L. Mangasarian,
+  *Nonlinear Programming*, 1969
+  [[Amazon]](https://www.amazon.co.jp/dp/0898713412)
+* R. T. Rockafellar,
+  *Convex Analysis*, 1970
+  [[Amazon]](https://www.amazon.co.jp/dp/0691015864)
+* S. Boyd and L. Vandenberghe,
+  [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/), 2004
+* A. Barvinok,
+  *A Course in Convexity*, 2002
+  [[Amazon]](https://www.amazon.co.jp/dp/0821829688)
+* J. W. Milnor,
+  *Topology from the Differentiable Viewpoint*, 1965
+  [[Amazon]](https://www.amazon.co.jp/dp/0691048339)
