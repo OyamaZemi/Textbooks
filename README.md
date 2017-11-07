@@ -25,3 +25,6 @@ List of textbooks
 * J. W. Milnor,
   *Topology from the Differentiable Viewpoint*, 1965
   [[Amazon]](https://www.amazon.co.jp/dp/0691048339)
+* R. V. Vohra,
+  *Advanced Mathematical Economics*, 2005
+  [[Amazon]](https://www.amazon.co.jp/dp/0415700086)
