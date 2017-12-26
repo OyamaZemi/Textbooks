@@ -28,3 +28,5 @@ List of textbooks
 1. R. V. Vohra,
    *Advanced Mathematical Economics*, 2005
    [[Amazon](https://www.amazon.co.jp/dp/0415700086)]
+1. M. Fuss and D. L. McFadden, Eds.,
+   [*Production Economics: A Dual Approach to Theory and Applications, Volume I: The Theory of Production*](https://eml.berkeley.edu/~mcfadden/prodecon1.html), 1978
