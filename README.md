@@ -30,3 +30,9 @@ List of textbooks
    [[Amazon](https://www.amazon.co.jp/dp/0415700086)]
 1. M. Fuss and D. L. McFadden, Eds.,
    [*Production Economics: A Dual Approach to Theory and Applications, Volume I: The Theory of Production*](https://eml.berkeley.edu/~mcfadden/prodecon1.html), 1978
+1. D. Lecomte,
+   [*Weak topologies*](https://perso.crans.org/lecomte/Math/WeakTopologies.pdf), 2006
+1. T. Maruyama,
+   [*確率測度の確率測度の＊弱収束  均衡分析への応用のために (一)*](https://core.ac.uk/download/pdf/145720102.pdf), 1977
+1. T. Maruyama,
+   [*確率測度の確率測度の＊弱収束  均衡分析への応用のために (二)*](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234610-19780201-0045.pdf?file_id=78117), 1978
