@@ -30,3 +30,12 @@ List of textbooks
    [[Amazon](https://www.amazon.co.jp/dp/0415700086)]
 1. M. Fuss and D. L. McFadden, Eds.,
    [*Production Economics: A Dual Approach to Theory and Applications, Volume I: The Theory of Production*](https://eml.berkeley.edu/~mcfadden/prodecon1.html), 1978
+1. R. V. Vohra,
+   *Mechanism Design: A Linear Programming Approach*, 2011
+   [[Amazon](https://www.amazon.co.jp/dp/0521179467)]
+1. C. P. Chambers and F. Echenique,
+   *Revealed Preference Theory*, 2016
+   [[Amazon](https://www.amazon.co.jp/dp/1107087805)]
+1. 室田一雄
+   『離散凸解析』2001
+   [[Amazon](https://www.amazon.co.jp/dp/4320016904)]
