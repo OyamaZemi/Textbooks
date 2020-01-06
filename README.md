@@ -8,6 +8,7 @@ List of textbooks
 1. K. C. Border,
    *Fixed Point Theorems with Applications to Economics and Game Theory*, 1989
    [[Amazon](https://www.amazon.co.jp/dp/0521388082)]
+   (2018年度)
 1. D. Gale,
    *The Theory of Linear Economic Models*, 1960
    [[Amazon](https://www.amazon.co.jp/dp/0226278840)]
