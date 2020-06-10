@@ -18,6 +18,7 @@ List of textbooks
 1. R. T. Rockafellar,
    *Convex Analysis*, 1970
    [[Amazon](https://www.amazon.co.jp/dp/0691015864)]
+   (2020年度)
 1. S. Boyd and L. Vandenberghe,
    [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/), 2004
 1. A. Barvinok,
