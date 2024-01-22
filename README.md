@@ -2,9 +2,9 @@
 List of textbooks
 
 1. G. Debreu,
-   [*Theory of Value*](https://cowles.yale.edu/cfm-17), Yale University Press, 1959
+   [*Theory of Value*](https://cowles.yale.edu/research/cfm-17-theory-value-axiomatic-analysis-economic-equilibrium), Yale University Press, 1959
 1. H. E. Scarf,
-   [*The Computation of Economic Equilibria*](https://cowles.yale.edu/cfm-24), Yale University Press, 1973
+   [*The Computation of Economic Equilibria*](https://cowles.yale.edu/research/cfm-24-computation-economic-equilibria), Yale University Press, 1973
 1. K. C. Border,
    *Fixed Point Theorems with Applications to Economics and Game Theory*, 1989
    [[Amazon](https://www.amazon.co.jp/dp/0521388082)]
@@ -41,3 +41,5 @@ List of textbooks
 1. 室田一雄
    『離散凸解析』2001
    [[Amazon](https://www.amazon.co.jp/dp/4320016904)]
+1. T. J. Sargent and J. Stachurski,
+   [*Economic Networks: Theory and Computation*](https://networks.quantecon.org)
