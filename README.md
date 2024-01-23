@@ -43,3 +43,7 @@ List of textbooks
    [[Amazon](https://www.amazon.co.jp/dp/4320016904)]
 1. T. J. Sargent and J. Stachurski,
    [*Economic Networks: Theory and Computation*](https://networks.quantecon.org)
+1. N. L. Stokey and R. E. Lucas Jr.,
+   *Recursive Methods in Economic Dynamics*, 1989
+   [[Amazon](https://www.amazon.co.jp/dp/0674750969)]
+   
