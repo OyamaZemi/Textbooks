@@ -46,4 +46,4 @@ List of textbooks
 1. N. L. Stokey and R. E. Lucas Jr.,
    *Recursive Methods in Economic Dynamics*, 1989
    [[Amazon](https://www.amazon.co.jp/dp/0674750969)]
-   
+   (2024年度)
