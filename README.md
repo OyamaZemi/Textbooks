@@ -47,3 +47,6 @@ List of textbooks
    *Recursive Methods in Economic Dynamics*, 1989
    [[Amazon](https://www.amazon.co.jp/dp/0674750969)]
    (2024年度)
+1. S. Amari,
+   *Information Geometry and Its Applications*, 2016
+   [[Amazon](https://www.amazon.co.jp/dp/4431559779)]
